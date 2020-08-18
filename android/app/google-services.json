@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060191451975",
+    "firebase_url": "https://phone-market-6fa34.firebaseio.com",
+    "project_id": "phone-market-6fa34",
+    "storage_bucket": "phone-market-6fa34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060191451975:android:dd859ba6faca6d815d6a62",
+        "android_client_info": {
+          "package_name": "wiseandroidstudios.phone_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060191451975-g4idtpe4tje27iqrjro6fe956qa0qfa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLKwNn2nHaa8dgO0qf_BqNRBCTKJJ75E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060191451975-g4idtpe4tje27iqrjro6fe956qa0qfa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
